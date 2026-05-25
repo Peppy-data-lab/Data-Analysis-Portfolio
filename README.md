@@ -17,7 +17,6 @@ The original dataset was messy and required data cleaning before analysis could 
 
 ## Tools Used
 - Microsoft Excel
-- Pivot Tables
 - Charts
 - Data Cleaning Techniques
 
